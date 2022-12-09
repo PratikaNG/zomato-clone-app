@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Nunito:wght@200;400&display=swap");
 @import "./styles/commonClasses.css";
+@import "./styles/variables.css";
 
 body {
   margin: 0;
