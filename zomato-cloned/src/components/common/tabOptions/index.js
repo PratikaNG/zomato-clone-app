@@ -6,10 +6,12 @@ const tabs = [
     id: 1,
     name: "Delivery",
     active_img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQSgofn4zMiXU5myR7H_aeSQIZpqHxzu5iA&usqp=CAU",
+      "https://b.zmtcdn.com/data/o2_assets/c0bb85d3a6347b2ec070a8db694588261616149578.png",
+    // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsQSgofn4zMiXU5myR7H_aeSQIZpqHxzu5iA&usqp=CAU",
     backdrop: "#FCEEC0",
     inactive_img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2gKKG9acTbGJMKvKuTugIdaRHbqdQAPSkXA&usqp=CAU",
+      "https://b.zmtcdn.com/data/o2_assets/246bbd71fbba420d5996452be3024d351616150055.png",
+    // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2gKKG9acTbGJMKvKuTugIdaRHbqdQAPSkXA&usqp=CAU",
   },
   {
     id: 2,
@@ -18,17 +20,19 @@ const tabs = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIIXPqcc9rcabZWR1A3qPuQHpwOJogHUvdg&usqp=CAU",
     backdrop: "#E5F3F3",
     inactive_img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAlqIfgNPKJj3OH2gbY6C2KFRXi5DolBPLg&usqp=CAU",
+      "https://b.zmtcdn.com/data/o2_assets/78d25215ff4c1299578ed36eefd5f39d1616149985.png",
+    // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAlqIfgNPKJj3OH2gbY6C2KFRXi5DolBPLg&usqp=CAU",
   },
   {
     id: 3,
     name: "Nightlife",
     active_img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxwKOpm4e96vdu3JRW5et_Dft1dY1HNnPU_g&usqp=CAU",
+      "https://b.zmtcdn.com/data/o2_assets/246bbd71fbba420d5996452be3024d351616150055.png",
     // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBdZ8b8mPWgwX9TUpgrMdHeMZRowsETx-LRQ&usqp=CAU",
     backdrop: "#EDf4FF",
     inactive_img:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5c15w9k41sE2tmf1Cs3szu1PzzBAZX8bdg&usqp=CAU",
+      "https://b.zmtcdn.com/data/o2_assets/01040767e4943c398e38e3592bb1ba8a1616150142.png",
+    // "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5c15w9k41sE2tmf1Cs3szu1PzzBAZX8bdg&usqp=CAU",
   },
 ];
 const TabOptions = ({ activeTab, setActiveTab }) => {

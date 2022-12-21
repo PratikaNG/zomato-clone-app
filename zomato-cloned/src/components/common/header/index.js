@@ -5,8 +5,7 @@ const Header = () => {
   return (
     <div className="max-width header">
       <img
-        src="https://www.citypng.com/public/uploads/preview/zomato-black-logo-hd-png-11662674148bvgltyctin.png"
-        // src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAB3CAMAAABmOG/FAAAAe1BMVEX////iN0Tum6DhKTnsiY/gJDXiNULhLTzhMD7gIDHfCCPfABr++fr98vP76uvgIjP41tjjP0v30dP0wcT529zlV2DgFSrocHfsjZPnanL1x8r64uTys7fvoKXnZW3kTljmXmfrgontlJnwqa3peIDeAATfABDkR1Lzur3fNlqbAAADaklEQVR4nO2X25aiOhCGgZgjBOQURVAOugff/wl3Kto90xcza27E3Xv93wUJObjqr6pUMIoAAAAAAAAAAAAAAAAAAAAAAAAA8PfstuD4Ugmas5fD2UslSBG/HBFDAiRAAiRsK0Fw9b0lMNaeL7/R8D0kqLmyWfcflCCU+qNCoRgLK9Rko6gfH4sV419/dVMJnIfvDd94hyqjpok5QaZKVgif7cYpSnrnpG+Y0dPt1vq+SA/+p/bGcNo1zrsDL94kgS/JcvQsybkV/HKiBfXo/XzpdteRlcu+mpSKl6o6KLHO+4wW5AdZNtTLbJYwftnTYHZkb5EguP0cP7j52ctL2VLbrj29rSvZmEl9/ViatePHvp27Zc9uot8hQY0/JUy3YB09akMSsq4PI1P+mOddlOVNQzuG6Wl31oVeeMtW9QYJbP4cvhqy7dSRx215IZNCWkV2/5Qo1+EmTNr5fhUvNDQkS9H4tu/u9LrwdyRS2Y7rgWy/p0GN1hSL7PKIyJyEHXOYioXUYh3H0bv8ZHQY0vqRcXqlOAzFGyT4ysNHypNaOfJ5rVXw/+VMKxMTfH39hyRYXrQDZVZIJBdMN3FB56OXYrVvkxCrcGQbrhhlxJlLKpZ2rOmp2UAGjo7s3DuKVmYt+XsXjn6WxpoW1lKMQes7EilWcVAglBAkIWGa/J//oNHByYoM1CFAQ+mjVbc6pch0jpY1PgohdpKR8Ogm31JU6azmsb9xC+rdjQsZ8YOeRy4px85a0dTirbRCCkMvkyHT76nSdI57bkirLcT2EkRwc9TvmyZXlDTROVwBMR3Z6CIFDc085Nrh6CeEM3TC7WgoZnlS3cK5v4fatePx9hL08HM4LT+7R30gCaMMGd4y+hyyE+VKf61opl/Ns9KOJv/YdfrVN5tJ+DAkorzm8+O6sjvHKd/zlYdi6hR5ui/LJkyfvZ6m1I9yGzn5vPiiQf+aoJtJcKe+b4g+H3Qs23tv+3PLY371lacqNTU2lTO9cTnWNq8v7amqBl+Mr7ltkknFcj03Nr937Eut3u44O/Mkpe8bpU1qCvpK0GmaGhGa1N/h/um8Xc43Svk93uHic60oTJrqr38cvsdfnj8CCZAACZAACd9Hgiv4y9H8pRKSTXipBAAAAAAAAAAAAAAAAAAAAAAAAOD/xr8RW0A7OZqPvAAAAABJRU5ErkJggg=="
+        src="https://b.zmtcdn.com/web_assets/b40b97e677bc7b2ca77c58c61db266fe1603954218.png"
         alt="Zomato-logo"
         className="header-logo"
       />

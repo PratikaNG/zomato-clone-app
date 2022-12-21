@@ -12,3 +12,18 @@
 .cursor-pointer {
   cursor: pointer;
 }
+
+.collection-title {
+  font-size: 30px;
+  color: var(--heading-text);
+  margin-bottom: 32px;
+  font-weight: 600;
+}
+
+.slick-next:before,
+.slick-prev:before {
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.75;
+  color: var(--zomato-gray);
+}
