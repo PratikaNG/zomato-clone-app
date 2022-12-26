@@ -1,7 +1,7 @@
 import React from "react";
 
 const Footer = () => {
-  return <div>This is made with 🔥 </div>;
+  return <div className="absolute-center">This is made with 🔥 </div>;
 };
 
 export default Footer;
